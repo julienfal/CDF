@@ -1,0 +1,57 @@
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/lib/ccache/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/lib/ccache/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.8 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+-- Found urdf: 2.6.0 (/opt/ros/humble/share/urdf/cmake)
+-- Found xacro: 2.0.8 (/opt/ros/humble/share/xacro/cmake)
+-- Found ament_lint_auto: 0.12.10 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done (0.5s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/juju/CDF/ros2_ws/build/diffdrive_description
+-- Install configuration: ""
+-- Installing: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description//rviz
+-- Installing: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description//rviz/diffdrive.rviz
+-- Installing: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description//launch
+-- Installing: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description//launch/rsp.launch.py
+-- Installing: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description//launch/start_rviz.launch.py
+-- Installing: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description//launch/launch_sim.launch.py
+-- Installing: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description//launch/diffdrive.launch.py
+-- Installing: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description//diffdrive
+-- Installing: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description//diffdrive/gazebo_control.xacro
+-- Installing: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description//diffdrive/robot_core.xacro
+-- Installing: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description//diffdrive/inertial_macros.xacro
+-- Installing: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description//diffdrive/robot.urdf.xacro
+-- Installing: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description//world
+-- Installing: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description//world/table.world
+-- Installing: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description//world/table
+-- Installing: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description//world/table/model.sdf
+-- Installing: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description//world/table/model.config
+-- Installing: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/ament_index/resource_index/package_run_dependencies/diffdrive_description
+-- Installing: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/ament_index/resource_index/parent_prefix_path/diffdrive_description
+-- Installing: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description/environment/ament_prefix_path.sh
+-- Installing: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description/environment/ament_prefix_path.dsv
+-- Installing: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description/environment/path.sh
+-- Installing: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description/environment/path.dsv
+-- Installing: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description/local_setup.bash
+-- Installing: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description/local_setup.sh
+-- Installing: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description/local_setup.zsh
+-- Installing: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description/local_setup.dsv
+-- Installing: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description/package.dsv
+-- Installing: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/ament_index/resource_index/packages/diffdrive_description
+-- Installing: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description/cmake/diffdrive_descriptionConfig.cmake
+-- Installing: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description/cmake/diffdrive_descriptionConfig-version.cmake
+-- Installing: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description/package.xml

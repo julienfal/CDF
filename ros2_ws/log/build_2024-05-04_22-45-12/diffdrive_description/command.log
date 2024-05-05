@@ -1,0 +1,4 @@
+Invoking command in '/home/juju/CDF/ros2_ws/build/diffdrive_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /home/juju/.local/bin/cmake --build /home/juju/CDF/ros2_ws/build/diffdrive_description -- -j20 -l20
+Invoked command in '/home/juju/CDF/ros2_ws/build/diffdrive_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /home/juju/.local/bin/cmake --build /home/juju/CDF/ros2_ws/build/diffdrive_description -- -j20 -l20
+Invoking command in '/home/juju/CDF/ros2_ws/build/diffdrive_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /home/juju/.local/bin/cmake --install /home/juju/CDF/ros2_ws/build/diffdrive_description
+Invoked command in '/home/juju/CDF/ros2_ws/build/diffdrive_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /home/juju/.local/bin/cmake --install /home/juju/CDF/ros2_ws/build/diffdrive_description

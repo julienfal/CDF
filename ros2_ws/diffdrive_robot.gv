@@ -1,0 +1,29 @@
+digraph G {
+node [shape=box];
+"base_link" [label="base_link"];
+"support_crazy_wheel_2" [label="support_crazy_wheel_2"];
+"part_1_2" [label="part_1_2"];
+"support_crazy_wheel" [label="support_crazy_wheel"];
+"part_1" [label="part_1"];
+"wheel_fixation" [label="wheel_fixation"];
+"wheel_bis" [label="wheel_bis"];
+"wheel_fixation_2" [label="wheel_fixation_2"];
+"wheel" [label="wheel"];
+node [shape=ellipse, color=blue, fontcolor=blue];
+"base_link" -> "crazy_fix_back" [label="xyz: -0.0921227 0.0154168 0.0328312 \nrpy: 3.08828e-10 -1.48386e-08 9.16063e-09"]
+"crazy_fix_back" -> "support_crazy_wheel_2"
+"support_crazy_wheel_2" -> "crazy_back" [label="xyz: -0.000267164 -0.000185444 -0.0295 \nrpy: -7.36331e-26 -4.86386e-25 -1.76083e-26"]
+"crazy_back" -> "part_1_2"
+"base_link" -> "crazy_fix_front" [label="xyz: 0.0323334 0.0154168 0.0328312 \nrpy: -3.08828e-10 1.48386e-08 -3.14159"]
+"crazy_fix_front" -> "support_crazy_wheel"
+"support_crazy_wheel" -> "crazy_front" [label="xyz: -0.000267164 -0.000185444 -0.0295 \nrpy: -3.23657e-26 -7.50424e-25 -3.14159"]
+"crazy_front" -> "part_1"
+"base_link" -> "fix_left" [label="xyz: -0.0225338 0.0604168 0.0288312 \nrpy: 1.48386e-08 3.08828e-10 -1.5708"]
+"fix_left" -> "wheel_fixation"
+"wheel_fixation" -> "wheel_left" [label="xyz: -0.025024 -0.00653961 -0.0115 \nrpy: 1.5708 -0 1.5708"]
+"wheel_left" -> "wheel_bis"
+"base_link" -> "fix_right" [label="xyz: -0.0225338 -0.0395832 0.0288312 \nrpy: -1.48386e-08 -3.08828e-10 1.5708"]
+"fix_right" -> "wheel_fixation_2"
+"wheel_fixation_2" -> "wheel_right" [label="xyz: -0.015024 0.00646039 -0.0115 \nrpy: -1.5708 1.4408e-08 -1.5708"]
+"wheel_right" -> "wheel"
+}

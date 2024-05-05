@@ -1,0 +1,37 @@
+[0.006s] Invoking command in '/home/juju/CDF/ros2_ws/build/diffdrive_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /home/juju/.local/bin/cmake --build /home/juju/CDF/ros2_ws/build/diffdrive_description -- -j20 -l20
+[0.032s] Invoked command in '/home/juju/CDF/ros2_ws/build/diffdrive_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /home/juju/.local/bin/cmake --build /home/juju/CDF/ros2_ws/build/diffdrive_description -- -j20 -l20
+[0.074s] Invoking command in '/home/juju/CDF/ros2_ws/build/diffdrive_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /home/juju/.local/bin/cmake --install /home/juju/CDF/ros2_ws/build/diffdrive_description
+[0.088s] -- Install configuration: ""
+[0.088s] -- Up-to-date: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description//rviz
+[0.088s] -- Up-to-date: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description//rviz/diffdrive.rviz
+[0.088s] -- Up-to-date: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description//launch
+[0.089s] -- Up-to-date: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description//launch/rsp.launch.py
+[0.089s] -- Up-to-date: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description//launch/start_rviz.launch.py
+[0.089s] -- Up-to-date: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description//launch/launch_sim.launch.py
+[0.089s] -- Up-to-date: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description//launch/diffdrive.launch.py
+[0.089s] -- Up-to-date: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description//diffdrive
+[0.089s] -- Up-to-date: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description//diffdrive/gazebo_control.xacro
+[0.089s] -- Up-to-date: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description//diffdrive/robot_core.xacro
+[0.089s] -- Up-to-date: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description//diffdrive/inertial_macros.xacro
+[0.089s] -- Installing: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description//diffdrive/robot.urdf.xacro
+[0.089s] -- Up-to-date: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description//world
+[0.089s] -- Up-to-date: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description//world/table.world
+[0.089s] -- Up-to-date: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description//world/table
+[0.089s] -- Up-to-date: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description//world/table/model.sdf
+[0.089s] -- Up-to-date: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description//world/table/model.config
+[0.089s] -- Up-to-date: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/ament_index/resource_index/package_run_dependencies/diffdrive_description
+[0.089s] -- Up-to-date: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/ament_index/resource_index/parent_prefix_path/diffdrive_description
+[0.089s] -- Up-to-date: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description/environment/ament_prefix_path.sh
+[0.089s] -- Up-to-date: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description/environment/ament_prefix_path.dsv
+[0.089s] -- Up-to-date: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description/environment/path.sh
+[0.089s] -- Up-to-date: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description/environment/path.dsv
+[0.089s] -- Up-to-date: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description/local_setup.bash
+[0.089s] -- Up-to-date: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description/local_setup.sh
+[0.089s] -- Up-to-date: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description/local_setup.zsh
+[0.089s] -- Up-to-date: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description/local_setup.dsv
+[0.089s] -- Up-to-date: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description/package.dsv
+[0.089s] -- Up-to-date: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/ament_index/resource_index/packages/diffdrive_description
+[0.089s] -- Up-to-date: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description/cmake/diffdrive_descriptionConfig.cmake
+[0.089s] -- Up-to-date: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description/cmake/diffdrive_descriptionConfig-version.cmake
+[0.089s] -- Up-to-date: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description/package.xml
+[0.092s] Invoked command in '/home/juju/CDF/ros2_ws/build/diffdrive_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /home/juju/.local/bin/cmake --install /home/juju/CDF/ros2_ws/build/diffdrive_description

@@ -1,0 +1,63 @@
+[0.005s] Invoking command in '/home/juju/CDF/ros2_ws/build/diffdrive_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /home/juju/.local/bin/cmake /home/juju/CDF/ros2_ws/src/diffdrive_description -DCMAKE_INSTALL_PREFIX=/home/juju/CDF/ros2_ws/install/diffdrive_description
+[0.063s] -- The C compiler identification is GNU 11.4.0
+[0.103s] -- The CXX compiler identification is GNU 11.4.0
+[0.112s] -- Detecting C compiler ABI info
+[0.142s] -- Detecting C compiler ABI info - done
+[0.148s] -- Check for working C compiler: /usr/lib/ccache/cc - skipped
+[0.148s] -- Detecting C compile features
+[0.149s] -- Detecting C compile features - done
+[0.151s] -- Detecting CXX compiler ABI info
+[0.184s] -- Detecting CXX compiler ABI info - done
+[0.191s] -- Check for working CXX compiler: /usr/lib/ccache/c++ - skipped
+[0.191s] -- Detecting CXX compile features
+[0.191s] -- Detecting CXX compile features - done
+[0.193s] -- Found ament_cmake: 1.3.8 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.378s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.440s] -- Found urdf: 2.6.0 (/opt/ros/humble/share/urdf/cmake)
+[0.484s] -- Found xacro: 2.0.8 (/opt/ros/humble/share/xacro/cmake)
+[0.485s] -- Found ament_lint_auto: 0.12.10 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.532s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.532s] -- Added test 'lint_cmake' to check CMake code style
+[0.533s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.534s] -- Added test 'xmllint' to check XML markup files
+[0.535s] -- Configuring done (0.5s)
+[0.536s] -- Generating done (0.0s)
+[0.537s] -- Build files have been written to: /home/juju/CDF/ros2_ws/build/diffdrive_description
+[0.545s] Invoked command in '/home/juju/CDF/ros2_ws/build/diffdrive_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /home/juju/.local/bin/cmake /home/juju/CDF/ros2_ws/src/diffdrive_description -DCMAKE_INSTALL_PREFIX=/home/juju/CDF/ros2_ws/install/diffdrive_description
+[0.545s] Invoking command in '/home/juju/CDF/ros2_ws/build/diffdrive_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /home/juju/.local/bin/cmake --build /home/juju/CDF/ros2_ws/build/diffdrive_description -- -j20 -l20
+[0.571s] Invoked command in '/home/juju/CDF/ros2_ws/build/diffdrive_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /home/juju/.local/bin/cmake --build /home/juju/CDF/ros2_ws/build/diffdrive_description -- -j20 -l20
+[0.614s] Invoking command in '/home/juju/CDF/ros2_ws/build/diffdrive_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /home/juju/.local/bin/cmake --install /home/juju/CDF/ros2_ws/build/diffdrive_description
+[0.629s] -- Install configuration: ""
+[0.629s] -- Installing: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description//rviz
+[0.629s] -- Installing: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description//rviz/diffdrive.rviz
+[0.629s] -- Installing: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description//launch
+[0.630s] -- Installing: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description//launch/rsp.launch.py
+[0.630s] -- Installing: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description//launch/start_rviz.launch.py
+[0.630s] -- Installing: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description//launch/launch_sim.launch.py
+[0.630s] -- Installing: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description//launch/diffdrive.launch.py
+[0.630s] -- Installing: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description//diffdrive
+[0.630s] -- Installing: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description//diffdrive/gazebo_control.xacro
+[0.630s] -- Installing: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description//diffdrive/robot_core.xacro
+[0.630s] -- Installing: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description//diffdrive/inertial_macros.xacro
+[0.630s] -- Installing: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description//diffdrive/robot.urdf.xacro
+[0.630s] -- Installing: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description//world
+[0.630s] -- Installing: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description//world/table.world
+[0.630s] -- Installing: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description//world/table
+[0.630s] -- Installing: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description//world/table/model.sdf
+[0.630s] -- Installing: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description//world/table/model.config
+[0.630s] -- Installing: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/ament_index/resource_index/package_run_dependencies/diffdrive_description
+[0.630s] -- Installing: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/ament_index/resource_index/parent_prefix_path/diffdrive_description
+[0.630s] -- Installing: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description/environment/ament_prefix_path.sh
+[0.630s] -- Installing: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description/environment/ament_prefix_path.dsv
+[0.630s] -- Installing: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description/environment/path.sh
+[0.630s] -- Installing: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description/environment/path.dsv
+[0.630s] -- Installing: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description/local_setup.bash
+[0.630s] -- Installing: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description/local_setup.sh
+[0.630s] -- Installing: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description/local_setup.zsh
+[0.630s] -- Installing: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description/local_setup.dsv
+[0.630s] -- Installing: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description/package.dsv
+[0.630s] -- Installing: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/ament_index/resource_index/packages/diffdrive_description
+[0.630s] -- Installing: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description/cmake/diffdrive_descriptionConfig.cmake
+[0.631s] -- Installing: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description/cmake/diffdrive_descriptionConfig-version.cmake
+[0.631s] -- Installing: /home/juju/CDF/ros2_ws/install/diffdrive_description/share/diffdrive_description/package.xml
+[0.634s] Invoked command in '/home/juju/CDF/ros2_ws/build/diffdrive_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /home/juju/.local/bin/cmake --install /home/juju/CDF/ros2_ws/build/diffdrive_description
